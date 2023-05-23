@@ -699,14 +699,16 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 100%;
+        width: 220px;
+        margin: 0 auto;
     }
 
     .rev__link {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 100%;
+        width: 180px;
+        margin: 0 auto;
     }
 
     .footer-bottom__wrapper {
